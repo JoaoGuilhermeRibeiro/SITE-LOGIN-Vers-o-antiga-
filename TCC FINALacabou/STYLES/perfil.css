@@ -1,0 +1,30 @@
+
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 10px;
+}
+
+#tres {
+    padding-right: 1780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: white;
+    background-color: #808080;
+}
+
+#quatro {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: white;
+    background-color: #808080;
+}
+#cabecario{
+    background-color: #808080;
+    width: 19000px;
+    height: 25px;
+}

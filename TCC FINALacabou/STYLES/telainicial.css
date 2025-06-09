@@ -1,0 +1,30 @@
+#um{
+    padding-right: 1780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: white;
+}
+#barracima{
+    background-color: #808080;
+    width: 19000px;
+    height: 25px;
+   
+    
+}
+#dois{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: white;
+}
+body{
+    background-color: black;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#criar-topico{
+    display: flex;
+    flex-direction: column;
+    width: 33.3%;
+}

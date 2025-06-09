@@ -1,0 +1,34 @@
+#seis{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: white;
+    
+}
+#cinco{
+    padding-right: 1780px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    size: 80px;
+    color: white;
+}
+#barracima2{
+    background-color: #808080;
+    width: 19000px;
+    height: 25px;
+   
+    
+}
+#topico_comentario{
+    background-color: #808080;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: black;
+}
